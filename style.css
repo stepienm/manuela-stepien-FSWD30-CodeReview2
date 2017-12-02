@@ -1,0 +1,104 @@
+
+.bodydiv{
+		width: 100%;
+	}
+	.logoheaderdiv {
+		background-color:#002b80;
+		color: white;
+		height: 125px;
+		font-family: verdana;
+		font-size:40px;
+	}
+
+
+	.logoheaderleft {
+		float: left;
+		width:120px;
+	}
+	.pheader {
+		text-align: center;
+		display: inline-block;
+		vertical-align: left;
+		line-height: normal;
+
+	}
+
+.container {
+	display: flex;
+	justify-content: space-between;
+	margin-top: 60px;
+	text-align: center;
+	height:50px;
+	}
+
+.Bild {
+	background-color: #e6f0ff;
+	font-family: verdana;
+	max-width: 1340px;
+	margin: -5 auto 0 auto;
+	display:flex;
+	justify-content: space-between;
+
+}
+
+.Amsterdam{
+	background-color: white;
+}
+.London{
+	background-color: white;
+}
+
+button {
+
+	margin-top: 100px;
+	padding: 30px 70px;
+	
+	color: white;
+	background-color: #4da6ff;
+	border-radius:5px;
+	font-size:25px;
+	font-family: verdana;
+	box-shadow: 0px 5px 10px +8px;
+
+}
+
+
+.knopf{
+	text-align:center;
+}
+
+
+
+#preisAmsterdam {
+	color: #1ac6ff;
+	font-size:30px;
+	
+}
+
+#preisLondon {
+	color:#1ac6ff;
+	font-size:30px;
+
+}
+
+
+.text {
+	font-size: 25px;
+	font-family: verdana;
+	border-radius: 5px;
+	text-align: center;
+
+}
+
+.ground {
+	background-color: #e6f0ff;
+	margin: 0px;
+	border-radius: 0px;
+	font-family: verdana;
+	height: 400px;
+margin-top:-28px;
+width: 1340px;
+
+}
+
+

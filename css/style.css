@@ -1,0 +1,30 @@
+.bodydiv{
+		width: 100%;
+	}
+	.logoheaderdiv {
+		background-color:blue;
+		color: white;
+		height: 125px;
+	}
+
+
+	.logoheaderleft {
+		float: left;
+		width:120px;
+	}
+	.pheader {
+		text-align: center;
+		display: inline-block;
+		vertical-align: left;
+		line-height: normal;
+	}
+
+.container {
+	display: flex;
+	justify-content: space-between;
+	margin-top: 60px;
+	text-align: center;
+	height:400px;
+	}
+
+
